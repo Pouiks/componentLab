@@ -16,5 +16,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
-  }
+  },
+  // Configuration spéciale pour Electron
+  base: process.env.NODE_ENV === 'production' ? './' : '/'
 }); 
