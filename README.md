@@ -57,7 +57,7 @@ ComponentLab est une application desktop qui révolutionne la façon dont les d�
 ### Interface principale
 ![Interface principale](docs/screenshots/main-interface.png)
 
-### Mode sombre
+### Mode clair
 ![Mode sombre](docs/screenshots/light-mode.png)
 
 ### Import de composants
