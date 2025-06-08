@@ -1,118 +1,130 @@
 # ComponentLab 🧩
 
-<div align="center">
-
 ![ComponentLab Logo](public/componentLab256x256.png)
 
-**Component Vault universel pour développeurs**
+**Universal Component Vault for developers**  
+*Store, organize and reuse your multi-framework UI components*
 
-*Stockez, organisez et réutilisez vos composants UI multi-framework*
-
-[![Version](https://img.shields.io/github/v/release/Pouiks/ComponentLab)](https://github.com/Pouiks/ComponentLab/releases)
-[![Downloads](https://img.shields.io/github/downloads/Pouiks/ComponentLab/total)](https://github.com/Pouiks/ComponentLab/releases)
+[![Version](https://img.shields.io/github/v/release/Pouiks/ComponentLab)](https://github.com/Pouiks/ComponentLab/releases)  
+[![Downloads](https://img.shields.io/github/downloads/Pouiks/ComponentLab/total)](https://github.com/Pouiks/ComponentLab/releases)  
 [![License](https://img.shields.io/github/license/Pouiks/ComponentLab)](LICENSE)
 
-[📥 Télécharger](https://github.com/Pouiks/ComponentLab/releases/latest) • [🐛 Reporter un bug](https://github.com/Pouiks/ComponentLab/issues) • [💬 Discussions](https://github.com/Pouiks/ComponentLab/discussions)
+[📥 Download](https://github.com/Pouiks/ComponentLab/releases/latest) • [🐛 Report an issue](https://github.com/Pouiks/ComponentLab/issues) • [💬 Discussions](https://github.com/Pouiks/ComponentLab/discussions)
 
-</div>
+---
 
-## 🎯 À propos
+## 🎯 About
 
-ComponentLab est une application desktop qui révolutionne la façon dont les développeurs gèrent leurs composants UI. Fini le temps perdu à chercher ce bouton parfait ou cette animation CSS dans vos anciens projets !
+**ComponentLab** is a desktop app that helps developers manage their UI components more efficiently.  
+Stop wasting time hunting for that perfect button or CSS animation across your old projects!
 
-### ✨ Pourquoi ComponentLab ?
+---
 
-- **🏗️ Multi-framework** : React, Vue, Angular, Flutter, HTML/CSS, Web Components...
-- **🔍 Recherche intelligente** : Trouvez vos composants en quelques secondes
-- **📁 Import flexible** : Dossiers complets, fichiers multiples, ou simples snippets
-- **🌍 Interface bilingue** : Français et Anglais
-- **🌙 Mode sombre** : Confort visuel pour les longues sessions de code
-- **📝 Documentation intégrée** : Chaque composant avec sa doc et ses exemples
+### ✨ Why ComponentLab?
 
-## 🚀 Fonctionnalités
+- 🏗️ **Multi-framework**: React, Vue, Angular, Flutter, HTML/CSS, Web Components...
+- 🔍 **Smart search**: Find your components in seconds
+- 📁 **Flexible import**: Full folders, multiple files, or simple snippets
+- 🌍 **Bilingual UI**: English and French
+- 🌙 **Dark mode**: Comfortable for long coding sessions
+- 📝 **Built-in documentation**: Every component with its own doc and examples
 
-### 📦 Gestion des composants
-- **Import avancé** : 4 méthodes d'import (dossier complet, fichiers multiples, snippet, styles externes)
-- **Détection automatique** : Reconnaissance du framework et du langage
-- **Prévisualisation** : Aperçu du code avec coloration syntaxique (Monaco Editor)
-- **Métadonnées complètes** : Nom, description, tags, version, auteur...
+---
 
-### 🔎 Recherche et organisation
-- **Recherche textuelle** : Dans le nom, description, tags
-- **Filtres avancés** : Par framework, langage, type
-- **Vue liste/grille** : Organisez selon vos préférences
-- **Navigation intuitive** : Interface claire et responsive
+## 🚀 Features
 
-### 🛠️ Développeur-friendly
-- **Éditeur intégré** : Monaco Editor avec support multi-langage
-- **Sauvegarde automatique** : Modifications préservées en temps réel
-- **Suppression sécurisée** : Confirmation avant suppression
-- **Stockage local** : Vos composants restent sur votre machine
+### 📦 Component management
+
+- Advanced import: 4 import methods (full folder, multiple files, snippet, external styles)
+- Auto-detection: Detect framework and language automatically
+- Preview: Syntax-highlighted preview (Monaco Editor)
+- Full metadata: Name, description, tags, version, author...
+
+### 🔎 Search & organization
+
+- Text search: Across name, description, tags
+- Advanced filters: By framework, language, type
+- List / grid view: Organize as you like
+- Intuitive navigation: Clean and responsive interface
+
+### 🛠️ Developer-friendly
+
+- Built-in editor: Monaco Editor with multi-language support
+- Auto-save: Real-time saving of your edits
+- Safe delete: Confirmation before deleting
+- Local storage: Your components stay on your machine
+
+---
 
 ## 🖼️ Screenshots
 
-<!-- Ajoutez vos screenshots ici -->
-<div align="center">
+### Main interface
+![Main interface](docs/screenshots/main-interface.png)
 
-### Interface principale
-![Interface principale](docs/screenshots/main-interface.png)
+### Light mode
+![Light mode](docs/screenshots/light-mode.png)
 
-### Mode clair
-![Mode sombre](docs/screenshots/light-mode.png)
-
-### Import de composants
+### Component import
 ![Import wizard](docs/screenshots/import-wizard.png)
 
-### Éditeur de code
+### Code editor
 ![Code editor](docs/screenshots/code-editor.png)
 
-</div>
+---
 
 ## 📥 Installation
 
 ### Windows
 
-1. **Téléchargez** la dernière version depuis la [page des releases](https://github.com//ComponentLab/releases/latest)
-2. **Exécutez** `ComponentLab.Setup.x.x.x.exe`
-3. **Suivez** l'assistant d'installation
+1. **Download** the latest version from the [Releases page](https://github.com/Pouiks/ComponentLab/releases/latest)
+2. **Run** `ComponentLab.Setup.x.x.x.exe`
+3. **Follow** the installer
 
-⚠️ **Note importante** :** Windows peut afficher un avertissement SmartScreen car l'application n'est pas signée numériquement. Cliquez sur "Informations complémentaires" puis "Exécuter quand même" - ComponentLab est parfaitement sûr !**
+⚠️ **Important note**: Windows may show a SmartScreen warning because the app is not digitally signed.  
+Click "More info" then "Run anyway" — ComponentLab is perfectly safe!
+
+---
 
 ### macOS & Linux
 
-*Versions à venir - Contributions bienvenues !*
+*Versions coming soon — Contributions welcome!*
 
-## 🎮 Utilisation
+---
 
-### Premier lancement
+## 🎮 Usage
 
-1. **Lancez ComponentLab** depuis votre menu Démarrer
-2. **Explorez** l'interface avec les composants d'exemple
-3. **Ajoutez** votre premier composant avec le bouton "+"
+### First launch
 
-### Ajouter un composant
+1. Launch ComponentLab from your Start menu
+2. Explore the interface with example components
+3. Add your first component with the "+ Add component" button
 
-1. **Cliquez** sur le bouton "+" dans la sidebar
-2. **Choisissez** votre méthode d'import :
-   - **Dossier complet** : Pour importer un composant avec tous ses fichiers
-   - **Fichiers multiples** : Sélectionnez plusieurs fichiers liés
-   - **Snippet de code** : Copiez-collez du code directement
-   - **Styles externes** : Référencez des fichiers CSS externes
-3. **Remplissez** les métadonnées (nom, description, tags...)
-4. **Sauvegardez** et c'est prêt !
+### Adding a component
 
-### Organiser vos composants
+1. Click the "+" button in the sidebar
+2. Choose your import method:
+   - Full folder: Import a component with all its files
+   - Multiple files: Select multiple related files
+   - Code snippet: Paste code directly
+   - External styles: Reference external CSS files
+3. Fill in the metadata (name, description, tags, etc.)
+4. Save — and you're done!
 
-- **Recherchez** avec la barre de recherche
-- **Filtrez** par framework ou langage
-- **Triez** par nom, date de création, ou dernière modification
-- **Supprimez** les composants obsolètes (avec confirmation)
+### Organizing your components
+
+- Search with the search bar
+- Filter by framework or language
+- Sort by name, creation date, or last update
+- Delete obsolete components (with confirmation)
+
+---
 
 ## 🔧 Configuration
 
-### Structure des fichiers
+### File structure
 
-ComponentLab stocke vos composants dans :
+ComponentLab stores your components in:
+
 my_components/
 ├── React/
 │ ├── Button/
@@ -126,118 +138,118 @@ my_components/
 ├── Angular/
 └── ...
 
+pgsql
+Copier
+Modifier
 
-### Format meta.json
+### Meta.json format
 
 ```json
 {
   "id": "button-primary",
   "name": "Primary Button",
-  "description": "Bouton primaire avec animations",
+  "description": "Primary button with animations",
   "framework": "React",
   "language": "JSX",
   "tags": ["button", "primary", "interactive"],
   "version": "1.0.0",
-  "author": "Votre nom",
+  "author": "Your Name",
   "created_at": "2024-01-01T00:00:00.000Z",
   "updated_at": "2024-01-01T00:00:00.000Z"
 }
-```
 
-## 🛠️ Développement
 
-### Prérequis
+🛠️ ##Development
+**Prerequisites**
+Node.js 18+
 
-- Node.js 18+
-- npm ou yarn
+npm or yarn
 
-### Installation locale
-
-```bash
-# Cloner le repo
+Local installation
+bash
+Copier
+Modifier
+# Clone the repo
 git clone https://github.com/Pouiks/ComponentLab.git
 cd ComponentLab
 
-# Installer les dépendances
+# Install dependencies
 npm install
 
-# Lancer en développement
+## Run in development mode
 npm run dev
-```
-
-### Scripts disponibles
-
-```bash
-npm run dev          # Développement avec hot-reload
-npm run build        # Build pour production
-npm run build:electron # Build et package l'app Electron
-npm run lint         # Vérification du code
-npm run lint:fix     # Correction automatique
-```
-
-### Stack technique
-
-- **Frontend** : React 18 + Vite
-- **Desktop** : Electron 28
-- **Styling** : TailwindCSS
-- **Éditeur** : Monaco Editor
-- **Icons** : Lucide React
-- **i18n** : react-i18next
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! 
-
-### Comment contribuer
-
-1. **Forkez** le projet
-2. **Créez** une branche feature (`git checkout -b feature/AmazingFeature`)
-3. **Committez** vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. **Pushez** vers la branche (`git push origin feature/AmazingFeature`)
-5. **Ouvrez** une Pull Request
-
-### Idées de contributions
-
-- [ ] Support macOS et Linux
-- [ ] Synchronisation cloud (optionnelle)
-- [ ] Plugins pour IDE (VS Code, WebStorm...)
-- [ ] Export vers différents formats
-- [ ] Thèmes personnalisés
-- [ ] API REST pour intégrations
-
-## 🐛 Problèmes connus
-
-- **Windows SmartScreen** : Avertissement normal pour les apps non signées
-- **Icônes** : Utilise l'icône par défaut d'Electron temporairement
-
-## 📋 Roadmap
-
-- [ ] **v1.1** : Support macOS et Linux
-- [ ] **v1.2** : Plugins IDE
-- [ ] **v1.3** : Synchronisation cloud
-- [ ] **v2.0** : Mode collaboration équipe
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 💬 Support
-
-- 🐛 **Bugs** : [Issues GitHub](https://github.com/Pouiks/ComponentLab/issues)
-- 💭 **Discussions** : [GitHub Discussions](https://github.com/Pouiks/ComponentLab/discussions)
-- 📧 **Contact** : votre-email@example.com
-
-## ⭐ Remerciements
-
-- Merci à tous les contributeurs
-- Inspiré par les besoins réels des développeurs
-- Construit avec amour pour la communauté dev
-
----
-
-<div align="center">
-
-**⭐ Si ComponentLab vous aide, n'hésitez pas à mettre une étoile au projet !**
+Available scripts
+bash
+Copier
+Modifier
+npm run dev            # Development with hot-reload
+npm run build          # Production build
+npm run build:electron # Build and package Electron app
+npm run lint           # Lint the code
+npm run lint:fix       # Auto-fix lint errors
 
 
-</div>
+##**Tech stack**
+Frontend: React 18 + Vite
+
+Desktop: Electron 28
+
+Styling: TailwindCSS
+
+Editor: Monaco Editor
+
+Icons: Lucide React
+
+i18n: react-i18next
+
+🤝 ##**Contributing**
+Contributions are welcome!
+
+##**How to contribute**
+Fork the project
+
+Create a feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+##**Contribution ideas**
+ macOS and Linux support
+
+ Optional cloud sync
+
+ IDE plugins (VS Code, WebStorm, etc.)
+
+ Export to different formats
+
+ Custom themes
+
+ REST API for integrations
+
+🐛** Known issues**
+Windows SmartScreen: Normal warning for unsigned apps
+
+Icons: Currently using Electron default icon
+**
+📋 Roadmap**
+ v1.1: macOS and Linux support
+
+ v1.2: IDE plugins
+
+ v1.3: Cloud sync
+
+ v2.0: Team collaboration mode
+
+💬 Support
+🐛 GitHub Issues
+💭 GitHub Discussions
+⭐ Acknowledgements
+
+Thanks to all contributors
+
+Inspired by real-world developer needs
+
+⭐ If ComponentLab is useful to you, please give the project a star!
