@@ -156,47 +156,55 @@ Modifier
   "author": "Your Name",
   "created_at": "2024-01-01T00:00:00.000Z",
   "updated_at": "2024-01-01T00:00:00.000Z"
-}```
-🛠️ Development
-Prerequisites
-Node.js 18+
+}
 
-npm or yarn
+```
 
-Local installation
-bash
-Copier
-Modifier
+
+
+### 🛠️ Development
+
+#### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+#### Local installation
+
+```bash
 # Clone the repo
 git clone https://github.com/Pouiks/ComponentLab.git
 cd ComponentLab
+```
 
+```bash
 # Install dependencies
 npm install
+```
 
+```bash
 # Run in development mode
 npm run dev
-Available scripts
-bash
-Copier
-Modifier
+```
+
+#### Available scripts
+
+```bash
 npm run dev            # Development with hot-reload
 npm run build          # Production build
 npm run build:electron # Build and package Electron app
 npm run lint           # Lint the code
 npm run lint:fix       # Auto-fix lint errors
-Tech stack
-Frontend: React 18 + Vite
+```
 
-Desktop: Electron 28
+#### Tech stack
 
-Styling: TailwindCSS
-
-Editor: Monaco Editor
-
-Icons: Lucide React
-
-i18n: react-i18next
+- Frontend: React 18 + Vite
+- Desktop: Electron 28
+- Styling: TailwindCSS
+- Editor: Monaco Editor
+- Icons: Lucide React
+- i18n: react-i18next
 
 🤝 Contributing
 Contributions are welcome!
