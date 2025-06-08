@@ -157,10 +157,8 @@ Modifier
   "created_at": "2024-01-01T00:00:00.000Z",
   "updated_at": "2024-01-01T00:00:00.000Z"
 }
-
-
-🛠️ # Development
-**Prerequisites**
+🛠️ Development
+Prerequisites
 Node.js 18+
 
 npm or yarn
@@ -176,7 +174,7 @@ cd ComponentLab
 # Install dependencies
 npm install
 
-## Run in development mode
+# Run in development mode
 npm run dev
 Available scripts
 bash
@@ -187,9 +185,7 @@ npm run build          # Production build
 npm run build:electron # Build and package Electron app
 npm run lint           # Lint the code
 npm run lint:fix       # Auto-fix lint errors
-
-
-##**Tech stack**
+Tech stack
 Frontend: React 18 + Vite
 
 Desktop: Electron 28
@@ -202,10 +198,10 @@ Icons: Lucide React
 
 i18n: react-i18next
 
-🤝 ##**Contributing**
+🤝 Contributing
 Contributions are welcome!
 
-##**How to contribute**
+How to contribute
 Fork the project
 
 Create a feature branch (git checkout -b feature/AmazingFeature)
@@ -216,7 +212,7 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-##**Contribution ideas**
+Contribution ideas
  macOS and Linux support
 
  Optional cloud sync
@@ -229,12 +225,12 @@ Open a Pull Request
 
  REST API for integrations
 
-🐛** Known issues**
+🐛 Known issues
 Windows SmartScreen: Normal warning for unsigned apps
 
 Icons: Currently using Electron default icon
-**
-📋 Roadmap**
+
+📋 Roadmap
  v1.1: macOS and Linux support
 
  v1.2: IDE plugins
@@ -243,13 +239,21 @@ Icons: Currently using Electron default icon
 
  v2.0: Team collaboration mode
 
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
 💬 Support
 🐛 GitHub Issues
-💭 GitHub Discussions
-⭐ Acknowledgements
 
+💭 GitHub Discussions
+
+📧 your-email@example.com
+
+⭐ Acknowledgements
 Thanks to all contributors
 
 Inspired by real-world developer needs
+
+Built with ❤️ for the dev community
 
 ⭐ If ComponentLab is useful to you, please give the project a star!
