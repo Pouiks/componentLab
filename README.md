@@ -212,6 +212,7 @@ Contributions are welcome!
 How to contribute
 Fork the project
 
+```bash
 Create a feature branch (git checkout -b feature/AmazingFeature)
 
 Commit your changes (git commit -m 'Add some AmazingFeature')
@@ -219,49 +220,46 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+```
 
-Contribution ideas
+#### Contribution ideas
  macOS and Linux support
 
- Optional cloud sync
+- Optional cloud sync
 
- IDE plugins (VS Code, WebStorm, etc.)
+- IDE plugins (VS Code, WebStorm, etc.)
 
- Export to different formats
+- Export to different formats
 
- Custom themes
+- Custom themes
 
- REST API for integrations
+- REST API for integrations
 
-🐛 Known issues
+ #### Known issues
 Windows SmartScreen: Normal warning for unsigned apps
 
 Icons: Currently using Electron default icon
 
-📋 Roadmap
- v1.1: macOS and Linux support
+#### Roadmap
+ - v1.1: macOS and Linux support
 
- v1.2: IDE plugins
+ - v1.2: IDE plugins
 
- v1.3: Cloud sync
+ - v1.3: Cloud sync
 
- v2.0: Team collaboration mode
+ - v2.0: Team collaboration mode
 
-📄 License
+#### License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-💬 Support
-🐛 GitHub Issues
+#### Support
+- 🐛 GitHub Issues
 
-💭 GitHub Discussions
+- 💭 GitHub Discussions
 
-📧 your-email@example.com
-
-⭐ Acknowledgements
+#### Acknowledgements
 Thanks to all contributors
 
 Inspired by real-world developer needs
-
-Built with ❤️ for the dev community
 
 ⭐ If ComponentLab is useful to you, please give the project a star!
